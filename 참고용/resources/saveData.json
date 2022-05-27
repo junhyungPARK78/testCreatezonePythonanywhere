@@ -1,0 +1,17 @@
+{
+	"https://ruliweb.com": {
+		"connectStatus": true,
+		"shouldSendLineMsgAll": true,
+		"mails": [
+			"createzone@gmail.com",
+			"ireieri@me.com"
+		]
+	},
+	"https://jidae.com": {
+		"connectStatus": true,
+		"shouldSendLineMsgAll": false,
+		"mails": [
+			"createzone@gmail.com"
+		]
+	}
+}

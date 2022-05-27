@@ -14,7 +14,7 @@ https://mr-spock.tistory.com/19
 
 **명령어 정리**
 - 가상 환경 만들기
-  `python3 -m venv testCreatezonePythonanywhere`
+  `python3 -m venv testCreatezonePythonanywhere_venv`
 - 설치된 패키지 확인
   `pip freeze`
 - 설치된 패키지를 관리하는 requirements.txt 파일 만들기
