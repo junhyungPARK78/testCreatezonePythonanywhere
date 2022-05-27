@@ -1,5 +1,6 @@
 import schedule
 import time
+from resources import canConnectWeb
 
 def testFunction():
     now = time.strftime('%Y-%m-%d %H:%M:%S')
