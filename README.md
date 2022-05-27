@@ -3,6 +3,9 @@
 **파이썬 버전**
 Python 3.9.13
 
+**pythonanywhere**
+https://www.pythonanywhere.com/user/testCreatezonePythonanywhere/
+
 **pyinstaller 사용법**
 https://coding-kindergarten.tistory.com/84
 https://taedi.net/11
